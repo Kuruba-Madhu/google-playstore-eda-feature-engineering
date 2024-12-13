@@ -80,25 +80,8 @@ The dataset was collected from the Google Play Store and contains information ab
 
 ---
 
-## How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/google-playstore-eda-feature-engineering.git
-   ```
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook and execute the cells to explore the dataset and reproduce the results.
 
----
 
-## Project Structure
-- `Google_Playstore_EDA.ipynb`: Jupyter Notebook with all analysis and visualizations.
-- `data/`: Folder containing the Google Play Store dataset.
-- `images/`: Folder with visualizations used in the analysis.
-- `README.md`: Project documentation.
 
----
 
 
