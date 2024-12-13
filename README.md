@@ -9,6 +9,7 @@ Today, 1.85 million apps are available for users to download, with 2.56 million 
 ## Dataset Information
 - **Rows:** 10,841
 - **Columns:** 20
+- **Source:** [Google Play Store Dataset](https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv)
 
 The dataset was collected from the Google Play Store and contains information about app categories, ratings, reviews, installs, and other app-related attributes.
 
@@ -79,9 +80,6 @@ The dataset was collected from the Google Play Store and contains information ab
 - Include time-series analysis to track app trends over time.
 
 ---
-
-
-
 
 
 
